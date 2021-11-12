@@ -5,10 +5,10 @@
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Himanshu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-bandooni5722f)
-[![HackerRank](https://img.shields.io/badge/-Vicky_2000-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/kbandooni1)
-[![Instagram](https://img.shields.io/badge/-hmmmanshu-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lets_eatup_everything/)
-[![Gmail](https://img.shields.io/badge/-hnegi12345-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kbandooni1@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-Kunal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-bandooni5722f)
+[![HackerRank](https://img.shields.io/badge/-kbandooni1-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/kbandooni1)
+[![Instagram](https://img.shields.io/badge/-lets_eatup_everything-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lets_eatup_everything/)
+[![Gmail](https://img.shields.io/badge/-kbandooni1-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kbandooni1@gmail.com)
 ![](https://komarev.com/ghpvc/?username=kunalbandooni&style=flat)
 
 
