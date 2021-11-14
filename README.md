@@ -23,9 +23,9 @@
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `Python`, `JavaScript`| Programming Language
+`C`, `C++`, `Java`, `PyPi`, `Mini C`, `Python`, `JavaScript` | Programming Language
 `git` | Version-Control
-`VSCode`, `Vim`, `Nano`| Editor
+`VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime` | Editor
 `Powershell`| Shell
 `ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV`| Other Tools
 ---
