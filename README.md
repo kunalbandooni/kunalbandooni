@@ -1,5 +1,5 @@
 <!-- Greetings and Introduction -->
-# Hello, I am Kunal. :wave::smiley:
+# Hello, I am Kunal. :wave:
 <br>
 
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
@@ -25,7 +25,7 @@
 ---|---
 `C`, `C++`, `Java`, `PyPi`, `Mini C`, `Python`, `JavaScript` | Programming Language
 `git` | Version-Control
-`VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime` | Editor
+`VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
 `Powershell`| Shell
 `ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV`| Other Tools
 ---
