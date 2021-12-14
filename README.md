@@ -2,13 +2,15 @@
 # Hello, I am Kunal. :wave:
 <br>
 
+I love to build and tinker. I specialize in building clean and thoughtful experiences for IoT and consumer products.
+
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
 
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Kunal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-bandooni5722f)
 [![HackerRank](https://img.shields.io/badge/-kbandooni1-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/kbandooni1)
 [![Instagram](https://img.shields.io/badge/-lets_eatup_everything-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/lets_eatup_everything/)
-<!--[![GCP](https://github.com/occiware/GCP-Model/blob/master/GCP-Logo.png)](https://www.cloudskillsboost.google/public_profiles/bd8ab0cc-28af-46ba-9515-830c1b90da95)-->
+<!--[![GCP](https://img.icons8.com/color/65/000000/google-cloud)](https://www.cloudskillsboost.google/public_profiles/bd8ab0cc-28af-46ba-9515-830c1b90da95)-->
 [![Gmail](https://img.shields.io/badge/-kbandooni1-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kbandooni1@gmail.com)
 ![](https://komarev.com/ghpvc/?username=kunalbandooni&style=flat)
 
@@ -23,12 +25,12 @@
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `PyPi`, `Mini C`, `Python`, `JavaScript` | Programming Language
+`C`, `C++`, `Java`, `PyPi`, `Mini C`, `Python`, `JavaScript`, `Flask` | Programming Language
 `git` | Version-Control
 `VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
-`Powershell`| Shell
-`ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV`| Other Tools
----
+`Powershell` | Shell
+`ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV` | Other Tools
+---|---
  
 <!-- GitHub README Stats -->
 <p>
