@@ -31,7 +31,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
 `VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
 `Powershell` | Shell
 `ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV` | Other Tools
----|---
+`AWS`, `Microsoft Azure`, `GCP` | CLOUD
  
 <!-- GitHub README Stats -->
 <p>
