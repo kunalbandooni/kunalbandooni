@@ -3,6 +3,7 @@
 <br>
 
 I love to build and tinker. I specialize in building clean and thoughtful experiences for IoT and consumer products.
+---|---
 
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
 
