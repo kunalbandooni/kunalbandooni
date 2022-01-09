@@ -18,6 +18,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
 
 ### [**`My small projects`**](https://github.com/kunalbandooni?tab=projects)<br>
 
+- Virtual Keyboard
 - Face Detection Based Attendance System
 - Smart Garbage Monitoring System
 - Automated Car Parking System
@@ -26,7 +27,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `PyPi`, `Mini C`, `Python`, `JavaScript`, `Flask` | Programming Language
+`C`, `C++`, `Java`, `Python`, `JavaScript`, `PyPi`, `Mini C`, `Flask` | Programming Language
 `git` | Version-Control
 `VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
 `Powershell` | Shell
