@@ -36,9 +36,12 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
  
 <!-- GitHub README Stats -->
 <p>
-    <img width="470" height="auto" align="center" alt="Kunal's github stats" 
+    <!-- <img width="470" height="auto" align="center" alt="Kunal's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=kunalbandooni&show_icons=true&theme=algolia&count_private=true" />
     <img height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbandooni&show_icons=true&locale=en&layout=compact&theme=gotham" alt="kunalbandooni" />
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbandooni&show_icons=true&locale=en&layout=compact&theme=gotham" alt="kunalbandooni" /> -->
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbandooni&show_icons=true&locale=en&layout=compact&theme=gotham" alt="kunalbandooni" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalbandooni&show_icons=true&locale=en&theme=gotham" alt="kunalbandooni" />
     <br> <br> <br>
 <h4 align="left"> Thanks for Visiting! :innocent:</h4> </p>
