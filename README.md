@@ -44,7 +44,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
        src="https://github-readme-stats.vercel.app/api/top-langs?username=kunalbandooni&show_icons=true&locale=en&layout=compact&theme=gotham" alt="kunalbandooni" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kunalbandooni&show_icons=true&locale=en&theme=gotham" alt="kunalbandooni" />
 <p align="center">
-    <img alt="Kunal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kunalbandooniM&custom_title=Kunal's%20Activity%20Graph&theme=github" />
+    <img alt="Kunal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kunalbandooni&custom_title=Kunal's%20Activity%20Graph&theme=github" />
 </p>
     <br> <br> <br>
 <h4 align="left"> Thanks for Visiting! :innocent:</h4> </p>
