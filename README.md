@@ -16,7 +16,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
 ![](https://komarev.com/ghpvc/?username=kunalbandooni&style=flat)
 
 
-### [**`My small projects`**](https://github.com/kunalbandooni?tab=projects)<br>
+### [**`My small projects`**](https://github.com/kunalbandooni?tab=projects&type=classic)<br>
 
 - Virtual Keyboard
 - Face Detection Based Attendance System
