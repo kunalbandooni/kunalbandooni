@@ -18,6 +18,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
 
 ### [**`My small projects`**](https://github.com/kunalbandooni?tab=projects&type=classic)<br>
 
+- Email Service Application
 - Virtual Keyboard
 - Face Detection Based Attendance System
 - Smart Garbage Monitoring System
@@ -28,8 +29,9 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
  `Tool` | `Purpose`
 ---|---
 `C`, `C++`, `Java`, `Python`, `JavaScript`, `PyPi`, `Mini C`, `Flask` | Programming Language
+`Spring Boot`, `Flask`, `React Native`, `Angular`, `Bootstrap` | Framework and Libraries
 `git` | Version-Control
-`VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
+`IntelliJ`, `VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
 `Powershell` | Shell
 `ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV` | Other Tools
 `AWS`, `Microsoft Azure`, `GCP` | CLOUD
