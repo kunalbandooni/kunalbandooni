@@ -2,7 +2,7 @@
 # Hello, I am Kunal. :wave:
 <br>
 
-I love to build and tinker. I specialize in building clean and thoughtful experiences for IoT and consumer products.
+I love to build and tinker. I specialize in building clean and thoughtful experiences for Full Stack Applications and IoT products.
 <br>
 
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
@@ -18,6 +18,7 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
 
 ### [**`My small projects`**](https://github.com/kunalbandooni?tab=projects&type=classic)<br>
 
+- Task Management Application
 - Email Service Application
 - Virtual Keyboard
 - Face Detection Based Attendance System
@@ -28,11 +29,10 @@ I love to build and tinker. I specialize in building clean and thoughtful experi
  ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
  `Tool` | `Purpose`
 ---|---
-`C`, `C++`, `Java`, `Python`, `JavaScript`, `PyPi`, `Mini C`, `Flask` | Programming Language
-`Spring Boot`, `Flask`, `React Native`, `Angular`, `Bootstrap` | Framework and Libraries
-`git` | Version-Control
+`Java`, `Python`, `JavaScript`, `C`, `C++`, `PyPi`, `Mini C` | Programming Language
+`Spring Boot`, `Flask`, `React`, `React Native`, `Angular`, `Bootstrap` | Framework and Libraries
+`git`, `bit-bucket`, `git-lab` | Version-Control
 `IntelliJ`, `VSCode`, `Vim`, `Nano`, `Arduino IDE`, `Sublime`, `PyCharm` | Editor
-`Powershell` | Shell
 `ThingSpeak`, `Blynk`, `SQL`, `FireBase`, `OpenCV` | Other Tools
 `AWS`, `Microsoft Azure`, `GCP` | CLOUD
  
